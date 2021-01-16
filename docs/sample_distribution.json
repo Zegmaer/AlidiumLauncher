@@ -14,7 +14,7 @@
             "id": "WesterosCraft-1.11.2",
             "name": "WesterosCraft Production Server",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.pn",
             "version": "3.9.4",
             "address": "mc.westeroscraft.com",
             "minecraftVersion": "1.11.2",
