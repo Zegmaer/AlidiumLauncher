@@ -562,7 +562,7 @@ function dlAsync(login = true){
                 case 'files':
                     setLaunchPercentage(100, 100)
                     loggerLaunchSuite.log('File validation complete.')
-                    setLaunchDetails('Downloading files..')
+                    setLaunchDetails('Telechargement des fichier(s)..')
                     break
             }
         } else if(m.context === 'progress'){
@@ -708,7 +708,7 @@ function dlAsync(login = true){
                     proc.stdout.on('data', tempListener)
                     proc.stderr.on('data', gameErrorListener)
 
-                    setLaunchDetails('Done. Enjoy the server!')
+                    setLaunchDetails('Fini. Bienvenue sur Alidium')
 
                     // Init Discord Hook
                     const distro = DistroManager.getDistribution()
