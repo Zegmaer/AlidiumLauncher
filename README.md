@@ -2,8 +2,6 @@
 
 <h1 align="center">Alidium Launcher</h1>
 
-src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://alidium.yj.fr) <img
-
 <p align="center">Rejoignez le serveurs moddés sans vous soucier d'installer Java, ou les mods. Nous nous en occuperons pour vous.</p>
 
 ![Screenshot 2](https://i.imgur.com/pJXgpOO.jpeg)
